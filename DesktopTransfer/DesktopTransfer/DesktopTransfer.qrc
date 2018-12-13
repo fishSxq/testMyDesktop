@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/DesktopTransfer">
+        <file>Resources/image/From.ico</file>
+        <file>Resources/image/From_h.ico</file>
+        <file>Resources/image/Scan.ico</file>
+        <file>Resources/image/lb_cap.png</file>
+        <file>Resources/image/lt_cap.png</file>
+        <file>Resources/image/rb_cap.png</file>
+        <file>Resources/image/rt_cap.png</file>
+    </qresource>
+</RCC>
